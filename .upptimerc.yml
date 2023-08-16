@@ -11,7 +11,9 @@ sites:
     url: https://posta.comune.preganziol.tv.it
   - name: NextCloud
     url: https://nc.comune.preganziol.tv.it
-
+  - name: Cool Jconon
+    url: https://concorsi.comune.preganziol.tv.it
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
