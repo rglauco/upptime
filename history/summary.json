@@ -22,19 +22,19 @@
     "url": "https://servizionline.comune.preganziol.tv.it",
     "icon": "https://icons.duckduckgo.com/ip3/servizionline.comune.preganziol.tv.it.ico",
     "slug": "servizi-online",
-    "status": "down",
-    "uptime": "45.81%",
-    "uptimeDay": "45.81%",
-    "uptimeWeek": "45.81%",
-    "uptimeMonth": "45.81%",
-    "uptimeYear": "45.81%",
-    "time": 14725,
-    "timeDay": 14725,
-    "timeWeek": 14725,
-    "timeMonth": 14725,
-    "timeYear": 14725,
+    "status": "up",
+    "uptime": "33.89%",
+    "uptimeDay": "33.89%",
+    "uptimeWeek": "33.89%",
+    "uptimeMonth": "33.89%",
+    "uptimeYear": "33.89%",
+    "time": 11063,
+    "timeDay": 11063,
+    "timeWeek": 11063,
+    "timeMonth": 11063,
+    "timeYear": 11063,
     "dailyMinutesDown": {
-      "2023-08-16": 20
+      "2023-08-16": 33
     }
   },
   {
