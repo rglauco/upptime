@@ -22,9 +22,9 @@
     "url": "https://servizionline.comune.preganziol.tv.it",
     "icon": "https://icons.duckduckgo.com/ip3/servizionline.comune.preganziol.tv.it.ico",
     "slug": "servizi-online",
-    "status": "up",
+    "status": "down",
     "uptime": "84.09%",
-    "uptimeDay": "65.20%",
+    "uptimeDay": "65.60%",
     "uptimeWeek": "84.09%",
     "uptimeMonth": "84.09%",
     "uptimeYear": "84.09%",
@@ -34,7 +34,7 @@
     "timeMonth": 4640,
     "timeYear": 4640,
     "dailyMinutesDown": {
-      "2023-08-18": 361,
+      "2023-08-18": 362,
       "2023-08-17": 165,
       "2023-08-16": 43
     }
@@ -63,18 +63,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/nc.comune.preganziol.tv.it.ico",
     "slug": "next-cloud",
     "status": "down",
-    "uptime": "72.19%",
+    "uptime": "72.05%",
     "uptimeDay": "66.53%",
-    "uptimeWeek": "72.19%",
-    "uptimeMonth": "72.19%",
-    "uptimeYear": "72.19%",
+    "uptimeWeek": "72.05%",
+    "uptimeMonth": "72.05%",
+    "uptimeYear": "72.05%",
     "time": 1281,
     "timeDay": 1199,
     "timeWeek": 1281,
     "timeMonth": 1281,
     "timeYear": 1281,
     "dailyMinutesDown": {
-      "2023-08-18": 327,
+      "2023-08-18": 334,
       "2023-08-17": 488,
       "2023-08-16": 179
     }
@@ -85,18 +85,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/concorsi.comune.preganziol.tv.it.ico",
     "slug": "cool-jconon",
     "status": "down",
-    "uptime": "72.51%",
+    "uptime": "72.37%",
     "uptimeDay": "67.41%",
-    "uptimeWeek": "72.51%",
-    "uptimeMonth": "72.51%",
-    "uptimeYear": "72.51%",
+    "uptimeWeek": "72.37%",
+    "uptimeMonth": "72.37%",
+    "uptimeYear": "72.37%",
     "time": 1154,
     "timeDay": 1936,
     "timeWeek": 1154,
     "timeMonth": 1154,
     "timeYear": 1154,
     "dailyMinutesDown": {
-      "2023-08-18": 314,
+      "2023-08-18": 321,
       "2023-08-17": 488,
       "2023-08-16": 179
     }
