@@ -4,19 +4,19 @@
     "url": "https://www.comune.preganziol.tv.it",
     "icon": "https://icons.duckduckgo.com/ip3/www.comune.preganziol.tv.it.ico",
     "slug": "sito-web",
-    "status": "up",
-    "uptime": "99.54%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.61%",
-    "uptimeMonth": "98.74%",
+    "status": "down",
+    "uptime": "99.55%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "98.76%",
     "uptimeYear": "99.54%",
     "time": 1207,
-    "timeDay": 1280,
-    "timeWeek": 1224,
-    "timeMonth": 1142,
+    "timeDay": 1044,
+    "timeWeek": 1203,
+    "timeMonth": 1144,
     "timeYear": 1208,
     "dailyMinutesDown": {
-      "2024-08-19": 8,
+      "2024-08-20": 0,
       "2024-08-16": 16,
       "2024-08-15": 16,
       "2024-08-12": 46,
@@ -106,12 +106,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.96%",
-    "uptimeYear": "98.77%",
+    "uptimeYear": "98.79%",
     "time": 3505,
     "timeDay": 1686,
     "timeWeek": 1948,
     "timeMonth": 2322,
-    "timeYear": 3455,
+    "timeYear": 3452,
     "dailyMinutesDown": {
       "2024-07-26": 336,
       "2024-07-25": 23,
@@ -147,8 +147,7 @@
       "2023-08-25": 400,
       "2023-08-24": 343,
       "2023-08-23": 98,
-      "2023-08-22": 95,
-      "2023-08-21": 161
+      "2023-08-22": 95
     }
   },
   {
@@ -208,16 +207,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/nc.comune.preganziol.tv.it.ico",
     "slug": "next-cloud",
     "status": "up",
-    "uptime": "97.83%",
+    "uptime": "97.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.11%",
+    "uptimeYear": "98.17%",
     "time": 1518,
     "timeDay": 1071,
     "timeWeek": 1181,
     "timeMonth": 1178,
-    "timeYear": 1521,
+    "timeYear": 1522,
     "dailyMinutesDown": {
       "2024-07-09": 26,
       "2024-07-05": 64,
@@ -249,8 +248,7 @@
       "2023-08-25": 479,
       "2023-08-24": 489,
       "2023-08-23": 483,
-      "2023-08-22": 468,
-      "2023-08-21": 479
+      "2023-08-22": 468
     }
   },
   {
@@ -263,12 +261,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.35%",
+    "uptimeYear": "98.42%",
     "time": 1081,
     "timeDay": 801,
     "timeWeek": 2814,
     "timeMonth": 1356,
-    "timeYear": 1081,
+    "timeYear": 1082,
     "dailyMinutesDown": {
       "2024-06-07": 57,
       "2024-05-16": 117,
@@ -288,8 +286,7 @@
       "2023-08-25": 479,
       "2023-08-24": 478,
       "2023-08-23": 471,
-      "2023-08-22": 468,
-      "2023-08-21": 479
+      "2023-08-22": 468
     }
   }
 ]
