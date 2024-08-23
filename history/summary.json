@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.comune.preganziol.tv.it.ico",
     "slug": "sito-web",
     "status": "up",
-    "uptime": "99.55%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.10%",
-    "uptimeMonth": "98.69%",
-    "uptimeYear": "99.54%",
+    "uptime": "99.54%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.16%",
+    "uptimeMonth": "98.70%",
+    "uptimeYear": "99.53%",
     "time": 1207,
-    "timeDay": 1348,
-    "timeWeek": 1199,
-    "timeMonth": 1153,
-    "timeYear": 1208,
+    "timeDay": 1434,
+    "timeWeek": 1195,
+    "timeMonth": 1151,
+    "timeYear": 1207,
     "dailyMinutesDown": {
-      "2024-08-22": 6,
       "2024-08-21": 45,
       "2024-08-20": 24,
       "2024-08-16": 16,
@@ -92,7 +91,9 @@
       "2024-03-04": 28,
       "2024-03-01": 16,
       "2024-02-29": 15,
-      "2024-02-26": 16
+      "2024-02-26": 16,
+      "2024-02-25": 37,
+      "2024-02-24": 5
     }
   },
   {
@@ -106,11 +107,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.96%",
     "uptimeYear": "98.86%",
-    "time": 3500,
-    "timeDay": 2444,
-    "timeWeek": 2022,
-    "timeMonth": 2320,
-    "timeYear": 3396,
+    "time": 3497,
+    "timeDay": 1826,
+    "timeWeek": 1982,
+    "timeMonth": 2294,
+    "timeYear": 3398,
     "dailyMinutesDown": {
       "2024-07-26": 336,
       "2024-07-25": 23,
@@ -143,8 +144,7 @@
       "2023-08-28": 269,
       "2023-08-27": 391,
       "2023-08-26": 453,
-      "2023-08-25": 400,
-      "2023-08-24": 343
+      "2023-08-25": 400
     }
   },
   {
@@ -158,10 +158,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.68%",
-    "time": 1231,
-    "timeDay": 1135,
-    "timeWeek": 906,
-    "timeMonth": 954,
+    "time": 1230,
+    "timeDay": 842,
+    "timeWeek": 880,
+    "timeMonth": 952,
     "timeYear": 1235,
     "dailyMinutesDown": {
       "2024-07-09": 26,
@@ -208,12 +208,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.35%",
-    "time": 1517,
-    "timeDay": 1500,
-    "timeWeek": 1213,
-    "timeMonth": 1179,
-    "timeYear": 1506,
+    "uptimeYear": "98.39%",
+    "time": 1516,
+    "timeDay": 1102,
+    "timeWeek": 1218,
+    "timeMonth": 1164,
+    "timeYear": 1505,
     "dailyMinutesDown": {
       "2024-07-09": 26,
       "2024-07-05": 64,
@@ -242,8 +242,7 @@
       "2023-08-28": 479,
       "2023-08-27": 477,
       "2023-08-26": 481,
-      "2023-08-25": 479,
-      "2023-08-24": 489
+      "2023-08-25": 479
     }
   },
   {
@@ -256,12 +255,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.60%",
+    "uptimeYear": "98.64%",
     "time": 1080,
-    "timeDay": 1054,
-    "timeWeek": 863,
-    "timeMonth": 1360,
-    "timeYear": 1083,
+    "timeDay": 793,
+    "timeWeek": 878,
+    "timeMonth": 1346,
+    "timeYear": 1082,
     "dailyMinutesDown": {
       "2024-06-07": 57,
       "2024-05-16": 117,
@@ -278,8 +277,7 @@
       "2023-08-28": 479,
       "2023-08-27": 476,
       "2023-08-26": 480,
-      "2023-08-25": 479,
-      "2023-08-24": 478
+      "2023-08-25": 479
     }
   }
 ]
