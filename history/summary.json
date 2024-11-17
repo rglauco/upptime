@@ -4,14 +4,14 @@
     "url": "https://www.comune.preganziol.tv.it",
     "icon": "https://icons.duckduckgo.com/ip3/www.comune.preganziol.tv.it.ico",
     "slug": "sito-web",
-    "status": "up",
-    "uptime": "99.62%",
-    "uptimeDay": "93.66%",
-    "uptimeWeek": "95.78%",
+    "status": "down",
+    "uptime": "99.64%",
+    "uptimeDay": "93.91%",
+    "uptimeWeek": "95.77%",
     "uptimeMonth": "96.64%",
-    "uptimeYear": "99.53%",
+    "uptimeYear": "99.54%",
     "time": 1199,
-    "timeDay": 1214,
+    "timeDay": 1254,
     "timeWeek": 1334,
     "timeMonth": 1266,
     "timeYear": 1195,
@@ -60,7 +60,7 @@
       "2024-09-29": 26,
       "2024-09-28": 32,
       "2024-09-27": 17,
-      "2024-09-26": 93
+      "2024-09-26": 17
     }
   },
   {
