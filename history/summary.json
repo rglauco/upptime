@@ -6,9 +6,9 @@
     "slug": "sito-web",
     "status": "up",
     "uptime": "99.60%",
-    "uptimeDay": "88.26%",
-    "uptimeWeek": "92.82%",
-    "uptimeMonth": "93.56%",
+    "uptimeDay": "90.60%",
+    "uptimeWeek": "92.88%",
+    "uptimeMonth": "93.52%",
     "uptimeYear": "99.46%",
     "time": 1185,
     "timeDay": 1326,
@@ -16,7 +16,7 @@
     "timeMonth": 1136,
     "timeYear": 1180,
     "dailyMinutesDown": {
-      "2024-12-21": 72,
+      "2024-12-21": 66,
       "2024-12-20": 185,
       "2024-12-19": 64,
       "2024-12-18": 55,
@@ -40,7 +40,8 @@
       "2024-11-30": 55,
       "2024-11-29": 263,
       "2024-11-28": 194,
-      "2024-11-27": 66
+      "2024-11-27": 66,
+      "2024-11-26": 25
     }
   },
   {
@@ -87,9 +88,9 @@
     "url": "https://posta.comune.preganziol.tv.it",
     "icon": "https://icons.duckduckgo.com/ip3/posta.comune.preganziol.tv.it.ico",
     "slug": "zimbra",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.56%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.70%",
@@ -99,6 +100,7 @@
     "timeMonth": 1060,
     "timeYear": 1226,
     "dailyMinutesDown": {
+      "2024-12-21": 0,
       "2024-12-19": 24,
       "2024-12-17": 20,
       "2024-11-13": 48,
