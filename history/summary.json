@@ -4,16 +4,16 @@
     "url": "https://www.comune.preganziol.tv.it",
     "icon": "https://icons.duckduckgo.com/ip3/www.comune.preganziol.tv.it.ico",
     "slug": "sito-web",
-    "status": "up",
-    "uptime": "99.64%",
-    "uptimeDay": "77.59%",
-    "uptimeWeek": "83.07%",
-    "uptimeMonth": "93.69%",
-    "uptimeYear": "99.47%",
+    "status": "down",
+    "uptime": "99.65%",
+    "uptimeDay": "77.58%",
+    "uptimeWeek": "83.06%",
+    "uptimeMonth": "93.74%",
+    "uptimeYear": "99.48%",
     "time": 1175,
-    "timeDay": 1059,
-    "timeWeek": 1121,
-    "timeMonth": 1144,
+    "timeDay": 1061,
+    "timeWeek": 1120,
+    "timeMonth": 1143,
     "timeYear": 1172,
     "dailyMinutesDown": {
       "2025-02-02": 319,
@@ -26,8 +26,7 @@
       "2025-01-26": 232,
       "2025-01-25": 375,
       "2025-01-24": 192,
-      "2025-01-23": 233,
-      "2025-01-22": 25
+      "2025-01-23": 233
     }
   },
   {
@@ -44,7 +43,7 @@
     "time": 2295,
     "timeDay": 1781,
     "timeWeek": 2218,
-    "timeMonth": 2044,
+    "timeMonth": 2030,
     "timeYear": 2374,
     "dailyMinutesDown": {
       "2025-01-11": 17,
@@ -88,7 +87,7 @@
     "time": 1161,
     "timeDay": 849,
     "timeWeek": 987,
-    "timeMonth": 968,
+    "timeMonth": 955,
     "timeYear": 1239,
     "dailyMinutesDown": {
       "2024-12-21": 53,
@@ -141,7 +140,7 @@
     "time": 1438,
     "timeDay": 1055,
     "timeWeek": 1263,
-    "timeMonth": 1340,
+    "timeMonth": 1338,
     "timeYear": 1432,
     "dailyMinutesDown": {
       "2025-01-25": 28,
@@ -175,7 +174,7 @@
     "time": 1057,
     "timeDay": 649,
     "timeWeek": 898,
-    "timeMonth": 1330,
+    "timeMonth": 1332,
     "timeYear": 1057,
     "dailyMinutesDown": {
       "2024-11-06": 19,
