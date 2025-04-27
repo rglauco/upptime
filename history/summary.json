@@ -6,14 +6,14 @@
     "slug": "sito-web",
     "status": "up",
     "uptime": "99.69%",
-    "uptimeDay": "94.05%",
-    "uptimeWeek": "97.04%",
-    "uptimeMonth": "93.61%",
+    "uptimeDay": "95.99%",
+    "uptimeWeek": "97.22%",
+    "uptimeMonth": "93.65%",
     "uptimeYear": "99.47%",
     "time": 1163,
-    "timeDay": 1048,
-    "timeWeek": 1063,
-    "timeMonth": 1103,
+    "timeDay": 1113,
+    "timeWeek": 1066,
+    "timeMonth": 1105,
     "timeYear": 1159,
     "dailyMinutesDown": {
       "2025-04-27": 41,
@@ -45,7 +45,7 @@
       "2025-03-31": 107,
       "2025-03-30": 128,
       "2025-03-29": 169,
-      "2025-03-28": 126
+      "2025-03-28": 109
     }
   },
   {
@@ -57,10 +57,10 @@
     "uptime": "97.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "87.15%",
+    "uptimeMonth": "87.86%",
     "uptimeYear": "96.89%",
     "time": 2369,
-    "timeDay": 2080,
+    "timeDay": 2178,
     "timeWeek": 2892,
     "timeMonth": 2581,
     "timeYear": 2487,
