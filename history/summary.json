@@ -6,17 +6,17 @@
     "slug": "sito-web",
     "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "93.89%",
-    "uptimeWeek": "96.01%",
-    "uptimeMonth": "94.53%",
+    "uptimeDay": "93.95%",
+    "uptimeWeek": "96.02%",
+    "uptimeMonth": "94.54%",
     "uptimeYear": "99.49%",
     "time": 1162,
     "timeDay": 1099,
-    "timeWeek": 1123,
-    "timeMonth": 1125,
+    "timeWeek": 1124,
+    "timeMonth": 1126,
     "timeYear": 1158,
     "dailyMinutesDown": {
-      "2025-05-03": 89,
+      "2025-05-03": 88,
       "2025-05-02": 23,
       "2025-05-01": 26,
       "2025-04-30": 58,
@@ -48,7 +48,7 @@
       "2025-04-03": 102,
       "2025-04-02": 90,
       "2025-04-01": 44,
-      "2025-03-31": 46
+      "2025-03-31": 73
     }
   },
   {
@@ -64,8 +64,8 @@
     "uptimeYear": "96.88%",
     "time": 2389,
     "timeDay": 1743,
-    "timeWeek": 2663,
-    "timeMonth": 2711,
+    "timeWeek": 2733,
+    "timeMonth": 2725,
     "timeYear": 2486,
     "dailyMinutesDown": {
       "2025-04-30": 23,
@@ -128,7 +128,7 @@
     "uptimeYear": "99.69%",
     "time": 1169,
     "timeDay": 600,
-    "timeWeek": 757,
+    "timeWeek": 752,
     "timeMonth": 1033,
     "timeYear": 1261,
     "dailyMinutesDown": {
@@ -154,8 +154,7 @@
       "2024-06-11": 16,
       "2024-06-07": 127,
       "2024-05-16": 112,
-      "2024-05-05": 50,
-      "2024-05-04": 62
+      "2024-05-05": 50
     }
   },
   {
@@ -172,7 +171,7 @@
     "time": 1433,
     "timeDay": 905,
     "timeWeek": 1111,
-    "timeMonth": 1119,
+    "timeMonth": 1122,
     "timeYear": 1289,
     "dailyMinutesDown": {
       "2025-04-09": 53,
@@ -206,7 +205,7 @@
     "time": 1004,
     "timeDay": 667,
     "timeWeek": 751,
-    "timeMonth": 789,
+    "timeMonth": 790,
     "timeYear": 966,
     "dailyMinutesDown": {
       "2025-04-02": 32,
