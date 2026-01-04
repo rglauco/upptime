@@ -1,7 +1,7 @@
 url: https://nc.comune.preganziol.tv.it
-status: up
-code: 200
-responseTime: 1116
-lastUpdated: 2026-01-03T23:22:34.398Z
+status: down
+code: 503
+responseTime: 3770
+lastUpdated: 2026-01-04T16:16:03.498Z
 startTime: 2023-08-16T09:49:25.000Z
 generator: Upptime <https://github.com/upptime/upptime>
