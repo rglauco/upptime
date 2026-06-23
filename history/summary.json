@@ -12,7 +12,7 @@
     "uptimeYear": "99.60%",
     "time": 2518,
     "timeDay": 4058,
-    "timeWeek": 6581,
+    "timeWeek": 7059,
     "timeMonth": 4837,
     "timeYear": 2780,
     "dailyMinutesDown": {
@@ -62,7 +62,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/servizionline.comune.preganziol.tv.it.ico",
     "slug": "servizi-online",
     "status": "down",
-    "uptime": "78.44%",
+    "uptime": "78.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -97,7 +97,7 @@
       "2025-11-06": 16,
       "2025-11-08": 77,
       "2025-11-17": 22,
-      "2026-06-23": 100,
+      "2026-06-23": 127,
       "2026-06-22": 1440,
       "2026-06-21": 1440,
       "2026-06-20": 1440,
@@ -321,7 +321,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "32.12%",
+    "uptimeYear": "32.11%",
     "time": 958,
     "timeDay": 0,
     "timeWeek": 0,
@@ -330,7 +330,7 @@
     "dailyMinutesDown": {
       "2025-08-18": 244,
       "2025-10-10": 28,
-      "2026-06-23": 100,
+      "2026-06-23": 127,
       "2026-06-22": 1440,
       "2026-06-21": 1440,
       "2026-06-20": 1440,
@@ -594,7 +594,7 @@
     "uptimeYear": "96.76%",
     "time": 1520,
     "timeDay": 2146,
-    "timeWeek": 1814,
+    "timeWeek": 1883,
     "timeMonth": 1663,
     "timeYear": 1527,
     "dailyMinutesDown": {
@@ -654,14 +654,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/concorsi.comune.preganziol.tv.it.ico",
     "slug": "cool-jconon",
     "status": "down",
-    "uptime": "91.55%",
+    "uptime": "91.54%",
     "uptimeDay": "53.18%",
     "uptimeWeek": "35.93%",
     "uptimeMonth": "33.27%",
     "uptimeYear": "75.87%",
     "time": 1157,
     "timeDay": 746,
-    "timeWeek": 726,
+    "timeWeek": 745,
     "timeMonth": 701,
     "timeYear": 1236,
     "dailyMinutesDown": {
@@ -804,7 +804,7 @@
       "2026-06-22": 674,
       "2026-06-21": 1440,
       "2026-06-20": 1440,
-      "2026-06-23": 100
+      "2026-06-23": 127
     }
   }
 ]
