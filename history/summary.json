@@ -66,7 +66,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "42.11%",
+    "uptimeYear": "42.10%",
     "time": 2507,
     "timeDay": 0,
     "timeWeek": 0,
@@ -97,7 +97,7 @@
       "2025-11-06": 16,
       "2025-11-08": 77,
       "2025-11-17": 22,
-      "2026-06-23": 24,
+      "2026-06-23": 100,
       "2026-06-22": 1440,
       "2026-06-21": 1440,
       "2026-06-20": 1440,
@@ -317,11 +317,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/posta.comune.preganziol.tv.it.ico",
     "slug": "zimbra",
     "status": "down",
-    "uptime": "76.05%",
+    "uptime": "76.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "32.13%",
+    "uptimeYear": "32.12%",
     "time": 958,
     "timeDay": 0,
     "timeWeek": 0,
@@ -330,7 +330,7 @@
     "dailyMinutesDown": {
       "2025-08-18": 244,
       "2025-10-10": 28,
-      "2026-06-23": 24,
+      "2026-06-23": 100,
       "2026-06-22": 1440,
       "2026-06-21": 1440,
       "2026-06-20": 1440,
@@ -586,17 +586,17 @@
     "url": "https://nc.comune.preganziol.tv.it",
     "icon": "https://icons.duckduckgo.com/ip3/nc.comune.preganziol.tv.it.ico",
     "slug": "next-cloud",
-    "status": "down",
+    "status": "up",
     "uptime": "98.02%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "95.81%",
-    "uptimeYear": "96.77%",
-    "time": 1518,
-    "timeDay": 0,
-    "timeWeek": 1767,
-    "timeMonth": 1648,
-    "timeYear": 1525,
+    "uptimeDay": "94.42%",
+    "uptimeWeek": "99.20%",
+    "uptimeMonth": "95.63%",
+    "uptimeYear": "96.76%",
+    "time": 1520,
+    "timeDay": 2146,
+    "timeWeek": 1814,
+    "timeMonth": 1663,
+    "timeYear": 1527,
     "dailyMinutesDown": {
       "2025-07-24": 207,
       "2025-07-23": 326,
@@ -645,7 +645,7 @@
       "2026-05-24": 887,
       "2026-05-23": 671,
       "2026-06-11": 275,
-      "2026-06-23": 5
+      "2026-06-23": 80
     }
   },
   {
@@ -658,7 +658,7 @@
     "uptimeDay": "53.18%",
     "uptimeWeek": "35.93%",
     "uptimeMonth": "33.27%",
-    "uptimeYear": "75.89%",
+    "uptimeYear": "75.87%",
     "time": 1157,
     "timeDay": 746,
     "timeWeek": 726,
@@ -804,7 +804,7 @@
       "2026-06-22": 674,
       "2026-06-21": 1440,
       "2026-06-20": 1440,
-      "2026-06-23": 24
+      "2026-06-23": 100
     }
   }
 ]
