@@ -1,7 +1,7 @@
 url: https://concorsi.comune.preganziol.tv.it
-status: up
-code: 200
-responseTime: 669
-lastUpdated: 2026-06-26T08:24:15.086Z
+status: down
+code: 503
+responseTime: 369
+lastUpdated: 2026-06-26T19:20:16.485Z
 startTime: 2023-08-16T09:57:46.000Z
 generator: Upptime <https://github.com/upptime/upptime>
