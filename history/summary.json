@@ -6,10 +6,10 @@
     "slug": "sito-web",
     "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "92.33%",
-    "uptimeWeek": "98.90%",
-    "uptimeMonth": "98.65%",
-    "uptimeYear": "99.57%",
+    "uptimeDay": "93.07%",
+    "uptimeWeek": "99.01%",
+    "uptimeMonth": "98.68%",
+    "uptimeYear": "99.58%",
     "time": 2552,
     "timeDay": 3617,
     "timeWeek": 7787,
@@ -54,8 +54,7 @@
       "2026-06-15": 183,
       "2026-06-17": 149,
       "2026-06-18": 103,
-      "2026-06-26": 100,
-      "2026-06-27": 11
+      "2026-06-26": 100
     }
   },
   {
@@ -64,11 +63,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/servizionline.comune.preganziol.tv.it.ico",
     "slug": "servizi-online",
     "status": "down",
-    "uptime": "78.14%",
+    "uptime": "78.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "41.02%",
+    "uptimeYear": "41.00%",
     "time": 2507,
     "timeDay": 0,
     "timeWeek": 0,
@@ -99,7 +98,7 @@
       "2025-11-06": 16,
       "2025-11-08": 77,
       "2025-11-17": 22,
-      "2026-06-27": 25,
+      "2026-06-27": 126,
       "2026-06-26": 1440,
       "2026-06-25": 1440,
       "2026-06-24": 1440,
@@ -323,11 +322,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/posta.comune.preganziol.tv.it.ico",
     "slug": "zimbra",
     "status": "down",
-    "uptime": "75.76%",
+    "uptime": "75.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "31.04%",
+    "uptimeYear": "31.02%",
     "time": 959,
     "timeDay": 0,
     "timeWeek": 0,
@@ -336,7 +335,7 @@
     "dailyMinutesDown": {
       "2025-08-18": 244,
       "2025-10-10": 28,
-      "2026-06-27": 25,
+      "2026-06-27": 126,
       "2026-06-26": 1440,
       "2026-06-25": 1440,
       "2026-06-24": 1440,
@@ -668,7 +667,7 @@
     "uptimeDay": "45.56%",
     "uptimeWeek": "37.01%",
     "uptimeMonth": "36.34%",
-    "uptimeYear": "76.44%",
+    "uptimeYear": "76.42%",
     "time": 1153,
     "timeDay": 695,
     "timeWeek": 677,
@@ -812,7 +811,7 @@
       "2026-06-24": 633,
       "2026-06-25": 694,
       "2026-06-26": 784,
-      "2026-06-27": 25
+      "2026-06-27": 126
     }
   }
 ]
