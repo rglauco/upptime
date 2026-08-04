@@ -4,16 +4,16 @@
     "url": "https://www.comune.preganziol.tv.it",
     "icon": "https://icons.duckduckgo.com/ip3/www.comune.preganziol.tv.it.ico",
     "slug": "sito-web",
-    "status": "down",
+    "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "98.89%",
-    "uptimeMonth": "98.74%",
-    "uptimeYear": "99.47%",
-    "time": 2681,
-    "timeDay": 2989,
-    "timeWeek": 2924,
-    "timeMonth": 2910,
+    "uptimeDay": "94.72%",
+    "uptimeWeek": "98.24%",
+    "uptimeMonth": "98.59%",
+    "uptimeYear": "99.45%",
+    "time": 2682,
+    "timeDay": 2856,
+    "timeWeek": 2902,
+    "timeMonth": 2905,
     "timeYear": 2914,
     "dailyMinutesDown": {
       "2025-08-24": 30,
@@ -57,7 +57,7 @@
       "2026-07-12": 118,
       "2026-07-13": 167,
       "2026-08-02": 102,
-      "2026-08-04": 10
+      "2026-08-04": 76
     }
   },
   {
@@ -70,7 +70,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "30.41%",
+    "uptimeYear": "30.39%",
     "time": 2496,
     "timeDay": 0,
     "timeWeek": 0,
@@ -95,7 +95,7 @@
       "2025-11-06": 16,
       "2025-11-08": 77,
       "2025-11-17": 22,
-      "2026-08-04": 1233,
+      "2026-08-04": 1305,
       "2026-08-03": 1440,
       "2026-08-02": 1440,
       "2026-08-01": 1440,
@@ -361,7 +361,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "20.40%",
+    "uptimeYear": "20.38%",
     "time": 964,
     "timeDay": 0,
     "timeWeek": 0,
@@ -370,7 +370,7 @@
     "dailyMinutesDown": {
       "2025-08-18": 244,
       "2025-10-10": 28,
-      "2026-08-04": 1233,
+      "2026-08-04": 1305,
       "2026-08-03": 1440,
       "2026-08-02": 1440,
       "2026-08-01": 1440,
@@ -734,11 +734,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/concorsi.comune.preganziol.tv.it.ico",
     "slug": "cool-jconon",
     "status": "down",
-    "uptime": "91.78%",
+    "uptime": "91.77%",
     "uptimeDay": "49.37%",
     "uptimeWeek": "36.01%",
     "uptimeMonth": "32.84%",
-    "uptimeYear": "75.57%",
+    "uptimeYear": "75.56%",
     "time": 1116,
     "timeDay": 763,
     "timeWeek": 700,
@@ -884,7 +884,7 @@
       "2026-08-03": 697,
       "2026-08-02": 1440,
       "2026-08-01": 1440,
-      "2026-08-04": 522
+      "2026-08-04": 594
     }
   }
 ]
