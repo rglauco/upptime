@@ -4,17 +4,17 @@
     "url": "https://www.comune.preganziol.tv.it",
     "icon": "https://icons.duckduckgo.com/ip3/www.comune.preganziol.tv.it.ico",
     "slug": "sito-web",
-    "status": "down",
+    "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "98.65%",
-    "uptimeWeek": "98.77%",
+    "uptimeDay": "98.50%",
+    "uptimeWeek": "98.75%",
     "uptimeMonth": "98.96%",
     "uptimeYear": "99.41%",
-    "time": 2627,
-    "timeDay": 9448,
-    "timeWeek": 4912,
-    "timeMonth": 3511,
-    "timeYear": 3021,
+    "time": 2631,
+    "timeDay": 6444,
+    "timeWeek": 4789,
+    "timeMonth": 3509,
+    "timeYear": 3022,
     "dailyMinutesDown": {
       "2025-08-28": 38,
       "2025-08-30": 20,
@@ -64,7 +64,7 @@
       "2026-08-17": 20,
       "2026-08-21": 39,
       "2026-08-22": 45,
-      "2026-08-24": 19
+      "2026-08-24": 22
     }
   },
   {
@@ -98,7 +98,7 @@
       "2025-11-06": 16,
       "2025-11-08": 77,
       "2025-11-17": 22,
-      "2026-08-24": 1222,
+      "2026-08-24": 1229,
       "2026-08-23": 1440,
       "2026-08-22": 1440,
       "2026-08-21": 1440,
@@ -392,7 +392,7 @@
     "timeYear": 989,
     "dailyMinutesDown": {
       "2025-10-10": 28,
-      "2026-08-24": 1222,
+      "2026-08-24": 1229,
       "2026-08-23": 1440,
       "2026-08-22": 1440,
       "2026-08-21": 1440,
@@ -710,16 +710,16 @@
     "url": "https://nc.comune.preganziol.tv.it",
     "icon": "https://icons.duckduckgo.com/ip3/nc.comune.preganziol.tv.it.ico",
     "slug": "next-cloud",
-    "status": "down",
+    "status": "up",
     "uptime": "98.29%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.43%",
-    "uptimeMonth": "99.48%",
-    "uptimeYear": "96.82%",
-    "time": 1569,
-    "timeDay": 2320,
-    "timeWeek": 2097,
-    "timeMonth": 1920,
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "99.37%",
+    "uptimeMonth": "99.46%",
+    "uptimeYear": "96.81%",
+    "time": 1570,
+    "timeDay": 1963,
+    "timeWeek": 2059,
+    "timeMonth": 1912,
     "timeYear": 1553,
     "dailyMinutesDown": {
       "2025-10-10": 27,
@@ -771,7 +771,7 @@
       "2026-08-15": 17,
       "2026-08-22": 35,
       "2026-08-23": 17,
-      "2026-08-24": 5
+      "2026-08-24": 12
     }
   },
   {
@@ -782,7 +782,7 @@
     "status": "down",
     "uptime": "91.99%",
     "uptimeDay": "52.00%",
-    "uptimeWeek": "42.32%",
+    "uptimeWeek": "42.24%",
     "uptimeMonth": "34.93%",
     "uptimeYear": "75.75%",
     "time": 1112,
@@ -928,7 +928,7 @@
       "2026-08-18": 359,
       "2026-08-20": 708,
       "2026-08-21": 703,
-      "2026-08-24": 473,
+      "2026-08-24": 481,
       "2026-08-23": 1440,
       "2026-08-22": 1440
     }
